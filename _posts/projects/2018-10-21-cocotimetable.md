@@ -29,7 +29,7 @@ images:
     url: "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/e6/2c/b8/e62cb8d3-a6ff-23e3-aebb-173f09289f56/mzl.xvfmriof.jpg/690x0w.jpg"
     alt: "원하는 강의는 많은데, 일일히 시간표 만들기 힘드셨다구요? 시간표 자동 조합을 통해 원하는 시간표를 고르기만 하세요."
 ---
-- 경험 삼아서 친구와 함께 앱을 만들고 출시를 해보기로 해서 약 1달간 진행하여 만든 시간표 앱입니다. 현재 iOS용 버전만 출시하였으며, Android용도 개발 중입니다. 언어는 Swift를 사용하였으며, 오픈소스는 RxSwift와 RxCocoa를 사용했습니다.
+- 경험 삼아서 친구와 함께 앱을 만들고 출시를 해보기로 해서 약 1달간 진행하여 만든 시간표 앱입니다. 현재 iOS용 버전만 출시하였으며, Android용도 개발 중입니다. 언어는 Swift를 사용하였으며, 오픈소스는 RxSwift와 RxCocoa를 사용했습니다. 저는 이 앱의 모든 코딩 부분을 담당했습니다.
 <br>
 <br>
 ## 주요 기능
