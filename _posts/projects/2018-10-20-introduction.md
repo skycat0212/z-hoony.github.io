@@ -74,3 +74,7 @@ images:
 - React Native
 - Kotlin
 - MVVM 디자인 패턴
+<br>
+<br>
+## 수상 경력
+- 한국정보올림피아드 전국대회 고등부 본선 입상
