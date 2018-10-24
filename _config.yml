@@ -12,3 +12,4 @@ highlighter: rouge
 sass:
   sass_dir: assets/scss
   style: compressed
+theme: jekyll-theme-cayman
